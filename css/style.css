@@ -1716,7 +1716,7 @@ h3.tittle-w3 span {
 }
 .agileinfo_footer_grid h3 {
     font-size: 1.2em;
-    color: #fff;
+    color: #000;
     position: relative;
     margin-bottom: 1.5em;
     padding-left: 3em;
@@ -1735,9 +1735,10 @@ ul.w3agile_footer_grid_list {
     left: 0%;
 }
 .agileinfo_footer_grid p{
-	color: #eee;
+	color: #000;
     line-height: 2em;
 	font-size: 0.8em;
+	font-weight: 800;
 }
 ul.w3agile_footer_grid_list li {
     color: #eee;
